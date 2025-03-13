@@ -9,4 +9,8 @@ public class Duck extends Animal {
     public void move() {
         System.out.println("Swim");
     }
+    public void age(){
+        System.out.println("Duck is 2 years old");
+    }
+
 }
