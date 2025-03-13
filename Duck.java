@@ -9,4 +9,7 @@ public class Duck extends Animal {
     public void move() {
         System.out.println("Swim");
     }
+    public void ducking() {
+        System.out.println("Duck");
+    }
 }
