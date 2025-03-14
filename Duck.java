@@ -12,4 +12,11 @@ public class Duck extends Animal {
     public void ducking() {
         System.out.println("Duck");
     }
+
+    public static void main(String[] args) {
+        Duck duck = new Duck("Duck");
+        duck.makeSound();
+        duck.move();
+        duck.ducking();
+    }
 }

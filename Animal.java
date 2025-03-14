@@ -1,3 +1,3 @@
-public abstract class Animal {
-    public void ducking(){}
+public class Animal {
+    
 }
