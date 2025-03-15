@@ -17,6 +17,5 @@ public class Duck extends Animal {
         Duck duck = new Duck("Duck");
         duck.makeSound();
         duck.move();
-        duck.ducking();
     }
 }
